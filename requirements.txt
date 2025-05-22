@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+tensorflow
+keras
+numpy
+pandas
+pyspellchecker
+googletrans==4.0.0rc1
+tk
+matplotlib  # for visualizations like accuracy/loss graphs
